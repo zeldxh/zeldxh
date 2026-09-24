@@ -3,5 +3,5 @@
 </p>
 
 <p align="left">
-  <i>building things for my own joy.</i>
+  <i>Building things for my own joy.</i>
   <br>
